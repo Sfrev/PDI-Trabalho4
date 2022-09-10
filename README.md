@@ -10,3 +10,8 @@ Prof. Cesar Henrique Comin
 Igor Teixeira Machado RA: 769708
 
 Rafael Vinícius Passador RA: 790036
+
+### Bibliotecas necessárias
+
+* OpenCV
+* NumPy
